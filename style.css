@@ -1,0 +1,47 @@
+.container{
+    height: 100%;
+    width: 100%;
+    padding: 0;
+    margin: 0;
+}
+
+.container > h1{
+    padding: 0;
+    margin: 0;
+    text-align: center;
+    font-size: 5rem;
+    padding-top: 50px;
+}
+.container > span{
+    padding-left: 10%;
+    display: block;
+    font-size: 3rem;
+    width: 80%;
+    text-align: center;
+}
+
+
+#moln-bild{
+    display: block;
+    padding-top: 50px;
+    margin: 0 auto;
+    height: 40%;
+    width: auto;
+    border-radius: 50%;
+
+}
+
+#weird{
+    display: block;
+    border-radius: 75%;
+    margin: 0 auto;
+}
+
+body {
+    background: repeating-radial-gradient(#e66465, #9198e5 20%);    
+
+    height: 100vh;
+    width: 100vw;
+    padding: 0;
+    margin: 0;
+}
